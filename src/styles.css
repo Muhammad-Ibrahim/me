@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+    padding: 10px;
+    background: #fafafa;
+    color: #458cd3;
+    font-family: El messiri;
+    font-size: 17px;
+  }
+  
